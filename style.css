@@ -1,0 +1,31 @@
+header h1 {
+  position: relative;
+  left: 50%;
+  border-width: 20px;
+  border-color: black; }
+header .me {
+  position: absolute;
+  top: 0%; }
+header p {
+  position: absolute;
+  left: 80%;
+  top: 0%; }
+
+.skill {
+  position: absolute;
+  left: 40%;
+  top: 20%;
+  border: 10px;
+  border-color: black; }
+
+.formation {
+  position: absolute;
+  top: 70%;
+  left: 10%; }
+
+.hobbies {
+  position: absolute;
+  left: 10%;
+  top: 20%; }
+
+/*# sourceMappingURL=style.css.map */

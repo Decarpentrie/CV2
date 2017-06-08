@@ -1,0 +1,37 @@
+header{
+	h1 {
+		position: relative;
+		left: 50%;
+		border-width: 20px;
+		border-color: $primary-color;
+	}
+	.me{
+		position: absolute;
+		top: 0%;
+	}
+	p{
+		position: absolute;
+		left: 80%;
+		top: 0%;
+	}
+}
+
+.skill{
+	position: absolute;
+	left: 40%;
+	top: 20%;
+	border: 10px;
+	border-color: $primary-color;
+}
+
+.formation{
+	position: absolute;
+	top: 70%;
+	left: 10%;
+}
+
+.hobbies{
+	position: absolute;
+	left: 10%;
+	top: 20%;
+}

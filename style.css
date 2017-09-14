@@ -24,6 +24,20 @@ header {
     left: 70%;
     width: 15%;
     height: 40%; }
+    .linkedin{
+      position: absolute;
+      top: 100%;
+      left: 100%;
+      width: 50%;
+      height: 15%;
+    }
+    .github{
+      position: absolute;
+      top: 10%;
+      left: 10%;
+      width: 50%;
+      height: 15%;
+    }
 
 .formation {
   position: absolute;

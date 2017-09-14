@@ -1,4 +1,4 @@
-body {
+/*body {
   font-size: 18px;
   margin: 0;
   width: 100%;
@@ -6,7 +6,7 @@ body {
   body li {
     list-style: none; }
   body li:before {
-    content: "\A4 \ "; }
+    content: "\A4 \ "; }*/
 
 header {
   width: 50%; }
@@ -14,6 +14,7 @@ header {
     position: relative;
     left: 58%; }
   header .me {
+    display: flex;
     position: absolute;
     top: 2%;
     left: 2%;
@@ -24,20 +25,7 @@ header {
     left: 70%;
     width: 15%;
     height: 40%; }
-    /*.linkedin{
-      position: absolute;
-      top: 100%;
-      left: 100%;
-      width: 20%;
-      height: 15%;
-    }*/
-    .github{
-     /* position: absolute;
-      top: 60%;
-      left: 20%*/;
-      width: 20%;
-      height: 15%;
-    }
+  
 
 .formation {
   position: absolute;

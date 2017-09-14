@@ -1,7 +1,8 @@
+@import 'variable';
 body{
 	font-size: 18px;
-	margin:0;
-	width: 100%;
+	margin:10px;
+	width: 50%;
 	background-color: $primary-color;
 	li{
 		list-style: none;
@@ -23,13 +24,27 @@ header{
 		left: 2%;
 		line-height: 1%;
 	}
-	img{
-		position: absolute;
-		top: 3%;
-		left: 70%;
-		width: 15%;
-		height: 35%;
+	.imgMe {
+    	position: absolute;
+    	top: 3%;
+   		left: 70%;
+    	width: 15%;
+    	height: 40%; 
 	}
+    .linkedin{
+    	position: absolute;
+    	top: 100%;
+    	left: 100%;
+    	width: 50%;
+    	height: 15%;
+    }
+  	.github{
+    	position: absolute;
+    	top: 10%;
+    	left: 10%;
+    	width: 50%;
+    	height: 15%;
+  	}
 }
 
 .formation{

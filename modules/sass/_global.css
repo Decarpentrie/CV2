@@ -1,0 +1,91 @@
+body {
+  font-size: 18px;
+  margin: 10px;
+  width: 50%;
+  background-color: rgba(211, 211, 239, 0.09); }
+  body li {
+    list-style: none; }
+  body li:before {
+    content: "\A4 \ "; }
+
+header {
+  width: 50%; }
+  header h1 {
+    position: relative;
+    left: 58%; }
+  header .me {
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    line-height: 1%; }
+  header .imgMe {
+    position: absolute;
+    top: 3%;
+    left: 70%;
+    width: 15%;
+    height: 40%; }
+  header .linkedin {
+    position: absolute;
+    top: 100%;
+    left: 100%;
+    width: 50%;
+    height: 15%; }
+  header .github {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 50%;
+    height: 15%; }
+
+.formation {
+  position: absolute;
+  top: 45%;
+  left: 40%;
+  border: 2px solid;
+  border-radius: 10px;
+  width: 45%;
+  height: 46%;
+  background-color: rgba(255, 255, 255, 0.08); }
+  .formation h3 {
+    position: relative;
+    left: 2%; }
+  .formation li {
+    position: relative;
+    left: 1%; }
+
+.language {
+  position: absolute;
+  top: 45%;
+  left: 5%;
+  border: 2px solid;
+  border-radius: 10px;
+  width: 30%;
+  height: 46%;
+  background-color: rgba(255, 255, 255, 0.08); }
+  .language h3 {
+    position: relative;
+    left: 4%; }
+  .language li {
+    position: relative;
+    left: -7%; }
+
+.skill {
+  position: absolute;
+  top: 95%;
+  left: 5%;
+  border: 2px solid;
+  border-radius: 10px;
+  width: 80%;
+  margin-bottom: 3%;
+  background-color: rgba(255, 255, 255, 0.08); }
+  .skill h3 {
+    position: relative;
+    left: 2%; }
+  .skill h4 {
+    position: relative;
+    left: 6%; }
+  .skill li {
+    position: relative;
+    left: 3%; }
+
+/*# sourceMappingURL=_global.css.map */

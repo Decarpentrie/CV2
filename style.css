@@ -1,6 +1,6 @@
 body {
   font-size: 18px;
-  background-color: rgba(211, 211, 239, 0.09); 
+  background-color: rgba(211, 211, 239, 0.09);
 }
 
 li{
@@ -31,7 +31,7 @@ h1{
   top: 3%;
   left: 70%;
   width: 15%;
-  height: 40%; 
+  height: 40%;
 }
 
 .linkedin{
@@ -56,21 +56,21 @@ h1{
   border-radius: 10px;
   width: 45%;
   height: auto;
-  background-color: #EEF6F5; 
+  background-color: #EEF6F5;
 }
 
 .skill h3 {
   position: relative;
-  left: 2%; 
+  left: 2%;
 }
 .skill h4 {
   position: relative;
-  left: 6%; 
+  left: 6%;
 }
 
 .skill li {
   position: relative;
-  left: 1%; 
+  left: 1%;
 }
 
 .language {
@@ -80,8 +80,8 @@ h1{
   border: 2px solid;
   border-radius: 10px;
   width: 30%;
-  height: 50%;
-  background-color: #EEF6F5; 
+  height: 47%;
+  background-color: #EEF6F5;
 }
 
 .language h3 {
@@ -91,7 +91,7 @@ h1{
 
 .language li {
   position: relative;
-  left: -7%; 
+  left: -7%;
 }
 
 .training {
@@ -102,15 +102,15 @@ h1{
   border-radius: 10px;
   width: 80%;
   margin-bottom:3%;
-  background-color: #EEF6F5; 
+  background-color: #EEF6F5;
 }
 
 .training h3 {
   position: relative;
-  left: 2%; 
+  left: 2%;
 }
 
 .training li {
   position: relative;
-  left: 3%; 
+  left: 3%;
 }
